@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Portal Client",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyBdX51Y5Rto89B1AcuPSPk_IQE8WUnT9lY",
+    googleApiKey: "AIzaSyCiLuDawcrMmqLY9iXWdCwqd6gbeT2VhAk",
     whatsappAdmin: "628998258149" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
